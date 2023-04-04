@@ -1,0 +1,17 @@
+{
+    "brands":
+  [
+    {
+      "id": 1, "ref": "1", "name": "Moe", "status": "ativo"
+    },
+    {
+      "id": 2, "ref": "2", "name": "Height", "status": "ativo"
+    },
+    {
+      "id": 3, "ref": "3", "name": "Gapaz", "status": "ativo"
+    },
+    {
+      "id": 4, "ref": "4", "name": "New York", "status": "ativo"
+    }
+  ]
+}
